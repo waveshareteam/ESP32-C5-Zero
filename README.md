@@ -1,4 +1,4 @@
-# Waveshare ESP32-S3-RGB-Matrix Project Examples
+# Waveshare ESP32-C5-Zero Project Examples
 
 [中文](README_ZH.md)
 
