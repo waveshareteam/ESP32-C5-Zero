@@ -1,0 +1,1 @@
+This example from Waveshare Corporation realizes the effect of controlling the on/off state of the RGB LED via a button between two development boards through the ZIGBEE protocol.
