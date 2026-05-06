@@ -4,8 +4,8 @@
 
 ESP32-C5-Zero(SMD board), ESP32-C5-Zero-M(pin-lined version) are small in size and adopt a half-hole process for easy integration into other motherboards. ESP32-C5-Zero onboard Type-C USB, leading out most of the unused pins under the small board shape. The ESP32-C5HF4 used is a system-on-chip (SoC) that integrates low-power Wi-Fi and BLE5 and has 4MB Flash. In addition, it has a hardware encryption accelerator, RNG, HMAC and Digital Signature module to meet the security requirements of the Internet of Things and rich peripheral interfaces. A variety of low-power operating states meet the power consumption needs of application scenarios such as the Internet of Things (IoT), mobile devices, wearable electronic devices, and smart homes.
 
-- https://www.waveshare.net/shop/ESP32-C5-Zero.htm
-- https://docs.waveshare.net/ESP32-C5-Zero/
+- https://www.waveshare.com/shop/ESP32-C5-Zero.htm
+- https://docs.waveshare.com/ESP32-C5-Zero/
 
 ![Product Image](./assets/produce-01.webp)
 ---
