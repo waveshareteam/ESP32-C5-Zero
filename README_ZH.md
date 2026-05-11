@@ -4,8 +4,8 @@
 
 ESP32-C5-Zero(贴片板), ESP32-C5-Zero-M(排针版) 体积小巧，采用半孔工艺，便于集成到其它主板上，ESP32-C5-Zero 板载 Type-C USB，在小板型下引出大部分未占用引脚，采用的 ESP32-C5HF4 是集成了低功耗 Wi-Fi 和 BLE5 的系统级芯片(SoC)，具有 4MB Flash。另外，具有硬件加密加速器、RNG、HMAC 和数字签名 (Digital Signature) 模块，满足物联网的安全要求和丰富的外设接口。多种低功耗工作状态满足在物联网 (IoT)、移动设备、可穿戴电子设备、智能家居等应用场景的功耗需求。
 
-- `https://www.waveshare.net/shop/ESP32-C5-Zero.htm` 
-- `https://docs.waveshare.net/ESP32-C5-Zero/` 
+- https://www.waveshare.net/shop/ESP32-C5-Zero.htm
+- https://docs.waveshare.net/ESP32-C5-Zero/
 
 ![Product Image](./assets/produce-01.webp)
 
